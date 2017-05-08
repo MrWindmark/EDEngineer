@@ -2640,140 +2640,140 @@
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Готово несколько чертежей",
       "pl": "Wiele schematów gotowych do stworzenia"
     },
     "{0} blueprints are available to craft!": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "К изготовление доступно {0} чертежей" ,
       "pl": "Można stworzyć {0} schematów!"
     },
     "Unhighlight all ingredients": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Снять выделение со всех ингридиентов",
       "pl": null
     },
     "Sensors": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Сенсоры",
       "pl": null
     },
     "Surface Scanner": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Сканер поверхности",
       "pl": null
     },
     "Wake Scanner": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Сканер следа ФСД",
       "pl": null
     },
     "Last update: ": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Последнее обновление",
       "pl": "Ostatnia aktualizacja"
     },
     "Silent Launch": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Тихая загрузка",
       "pl": null
     },
     "Search visible blueprints (by Type, Name, Grade or Engineer) - split your terms with a space for multi-criteria search": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Поиск видимых чертежей (по Типу, Имени, Классу или Инженеру) - разделите ключевые слова пробелом для поиска по нескольким критериям"
       "pl": "Przeszukaj widoczne schematy (po Typie, Nazwie, Poziomie lub nazwie Inżyniera) - oddziel terminy przy użyciu spacji by wyszukiwać za pomocą wielokrotnych kryterii"
     },
     "Configure Notifications": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Настройка уведомлений",
       "pl": "Skonfiguruj powiadomienia"
     },
     "Notifications": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Уведомление",
       "pl": "Powiadomienia"
     },
     "Test Notification": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Тестовое уведомление",
       "pl": "Próbne powiadomienie"
     },
     "Toast": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Тост",
       "pl": "Tost"
     },
     "Voice": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Голос",
       "pl": "Głos"
     },
     "Long Range Scanner": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Сканер дальнего действия",
       "pl": null
     },
     "Wide Angle Scanner": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Широкоугольный сканер",
       "pl": null
     },
     "Light Weight Scanner": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Облегчённый сканер",
       "pl": null
     },
     "Fast Scanner": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Быстрый сканер",
       "pl": null
     },
     "Unlock": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Разблокирование",
       "pl": "Odblokowanie"
     },
     "Available Voices:": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null,
+      "ru": "Доступные голоса",
       "pl": "Dostępne głosy:"
     }
   }
